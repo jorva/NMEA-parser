@@ -24,6 +24,7 @@ class SerialPort
 	private:
 
 	//destructor
+	//second destructor
 	
 };
 
